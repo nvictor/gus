@@ -153,7 +153,7 @@ P4 A↓ U(4)
 Hit pattern: `1, 1&, 1a, 2, 2&, 2a, 3, 3&, 3a, 4, 4&`
 
 ```text
-P8 A↓ N(2,3,4)<
+P8 A↓ N(4)<
 ```
 
 ### Reggaeton groove / "It's My Life"
