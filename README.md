@@ -201,7 +201,7 @@ P4 A↓ S(3)<> U(3)
 Hit pattern: `1, 1e, 2&, 3&`
 
 ```text
-P4 A↓ N(2)< U(2,3) O(4)
+P4 A↓ U(2,3) N(2)< O(4)
 ```
 
 ### Snake charmer groove
