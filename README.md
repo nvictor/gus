@@ -148,6 +148,14 @@ Hit pattern: `1, 2, 3, 4, 4&`
 P4 A↓ U(4)
 ```
 
+### Power groove
+
+Hit pattern: `1, 2, 2a, 3e, 4`
+
+```text
+P4 A↓ S(3)<>
+```
+
 ### Metal groove / Gallop groove
 
 Hit pattern: `1, 1&, 1a, 2, 2&, 2a, 3, 3&, 3a, 4, 4&`
