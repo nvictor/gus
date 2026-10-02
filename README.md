@@ -172,14 +172,6 @@ Hit pattern: `1, 1&, 2, 2&, 3, 3&, 4, 4&`
 P8 A↓
 ```
 
-### 16-pulse sixteenth grid
-
-Hit pattern: `1, 1e, 1&, 1a, 2, 2e, 2&, 2a, 3, 3e, 3&, 3a, 4, 4e, 4&, 4a`
-
-```text
-P16 A↓
-```
-
 ### 6-pulse uneven action groove
 
 Hit pattern: `1, 1a, 2&, 3e, 4, 4&`
